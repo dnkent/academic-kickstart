@@ -7,8 +7,9 @@ summary: "Math workshop for incoming Ohio State Political Science Ph.D. students
 authors: []
 tags: []
 categories: []
-date: 2019-08-04T22:46:22-04:00
-lastmod: 2019-08-04T22:46:22-04:00
+Event: "Math workshop for incoming Ohio State Political Science Ph.D. students."
+date: 2019-08-05 T09:00:22-04:00
+lastmod: 2019-08-05T09:00:22-04:00
 featured: false
 draft: false
 
