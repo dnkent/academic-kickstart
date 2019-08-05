@@ -13,10 +13,10 @@
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Teaching"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  name = "projects"
+#  url = "#projects"
+#  weight = 30
 
 #[[main]]
 #  name = "Publications"
@@ -24,9 +24,14 @@
 #  weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "Teaching"  # A name for the link.
+  url = "#talks"  # URL of the section.
+  weight = 40  # Position of the link in the menu.
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
