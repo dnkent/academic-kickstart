@@ -64,10 +64,10 @@ Below is the schedule and the appropriate videos to watch before each session. T
 + [Inequalities](https://www.youtube.com/watch?v=VgDe_D8ojxw)
 + [Quadratic formula](https://www.youtube.com/watch?v=i7idZfS8t8w)
 + [Solving for roots](https://www.youtube.com/watch?v=55G8037gsKY)
-+ [Factoring](https://www.youtube.com/watch?v=IKyUuvulIbk)
++ [Factoring](https://www.youtube.com/watch?v=v0dhpNnzZjA)
 + [Logarithms](https://www.youtube.com/watch?v=Z5myJ8dg_rM)
 + [Log rules I](https://www.youtube.com/watch?v=PupNgv49_WY)
-+ [Log rules II](https://www.youtube.com/watch?v=PupNgv49_WY)
++ [Log rules II](https://www.youtube.com/watch?v=TMmxKZaCqe0)
 + [Exponents and rules](https://www.youtube.com/watch?v=Kr16rdBMX4o)
 + [e and natural log](https://www.youtube.com/watch?v=dsySragIVEk)
 
