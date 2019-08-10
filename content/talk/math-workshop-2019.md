@@ -108,7 +108,7 @@ Below is the schedule and the appropriate videos to watch before each session. T
 + [Slope of a line secant to a curve](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-secant-lines/v/slope-of-a-line-secant-to-a-curve)
 + [The derivative](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-2/v/calculus-derivatives-1-new-hd-version)
 + [The derivative from the difference quotient](https://www.youtube.com/watch?v=SFjyhIe_rUo)
-+ [The power rule](https://www.youtube.com/watch?v=SFjyhIe_rUo)
++ [The power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-5/v/power-rule)
 + [The chain rule (all videos on this link)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction)
 + [The product rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-8/v/applying-the-product-rule-for-derivatives)
 + [The quotient rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-diff-2-optional/v/quotient-rule-from-product-rule)
