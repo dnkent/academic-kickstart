@@ -118,7 +118,7 @@ Below is the schedule and the appropriate videos to watch before each session. T
 
 + [Partial differentiation](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-introduction)
 + [Intro to limits](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/introduction-to-limits-hd)
-+ [Limits and infinity](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/introduction-to-limits-hd)
++ [Limits and infinity](https://www.youtube.com/watch?v=a2Ia_ZlUCaQ)
 + [Differentiability and continuity](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-diff-1-optional/v/differentiability-implies-continuity)
 + [Higher derivatives](https://www.youtube.com/watch?v=jSRN0yxiD1o)
 
