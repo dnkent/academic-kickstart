@@ -16,7 +16,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image: 
   caption: ""
   focal_point: ""
   preview_only: false
@@ -31,9 +31,12 @@ projects: []
 
 ---
 
-Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for designing this course. Any deficiencies are certainly due to my own tinkering. 
+![](/img/ols.png)
 
 ---
+
+Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for designing this course. Any deficiencies are certainly due to my own tinkering. 
+
 
 **The course syllabus is available [here](/files/math_camp_syllabus.pdf).**
 
