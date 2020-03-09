@@ -31,12 +31,9 @@ projects: []
 
 ---
 
-![](/img/ols.png)
-
----
-
 Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for designing this course. Any deficiencies are certainly due to my own tinkering. 
 
+---
 
 **The course syllabus is available [here](/files/math_camp_syllabus.pdf).**
 
