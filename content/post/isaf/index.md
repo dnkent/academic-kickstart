@@ -4,7 +4,7 @@
 title: "Keeping Your Friends Close, But Acquaintances Closer: Why
 Weakly Allied States Make Committed Coalition Partners"
 subtitle: ""
-summary: "Under review, paper available upon request"
+summary: "Invited to Revise and Resubmit at *Journal of Conflict Resolution*"
 authors: [With J. Andres Gannon (UCSD)]
 tags: []
 categories: []

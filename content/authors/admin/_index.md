@@ -23,12 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+    "Data Science",
     "Computational Social Science",
-    "International Relations",
-    "Social Network Analysis",
     "Machine Learning",
-    "International Conflict",
-    "Revisionist States"
+    "Social Network Analysis",
+    "International Relations"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -38,9 +37,9 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Political Science (In Progress)"
+  course = "PhD in Political Science"
   institution = "The Ohio State University"
-  year = 2020
+  year = "2020 (Expected)" 
 
 [[education.courses]]
   course = "MA in Political Science"
@@ -89,13 +88,15 @@ user_groups = ["Researchers", "Visitors"]
 
 Welcome to my website! 
 
-I am a PhD candidate in Political Science at The Ohio State University, specializing in computational social science and international relations. In my research I apply techniques from network science and machine learning to topics in international relations, particularly the onset of conflict between and within countries. I also have worked on methods for detecting the presence of time-varying effects in panel data. 
+I am a Ph.D. candidate in Political Science, specializing in quantitative methods, at The Ohio State University.
 
-<!-- Daniel Kent is a PhD candidate in Political Science at the Ohio State University. His research interests center around international relations and quantitative methods. More specifically, his work focuses on: the origins of revisionist states, computational models of international security competition, statistical techniques for capturing dynamic effects, and the role of global networks in state-level outcomes. -->
+My research falls under the umbrella of computational social science, with an interest in the application of techniques from machine learning and network science to social and political data. In my dissertation I produce novel estimates of how satisfied or dissatisfied every country has been with its international standing from 1816 to 2012, which I then use to forecast the onset of militarized interstate conflicts.
+
+In addition, I am involved in ongoing projects about: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, public opinion about the threat posed by international terrorism, and the politics of multilateral military coalitions.
 
 Prior to OSU, I earned a BA in International Relations from the University of California, Davis.
 
-You can find my CV {{% staticref "files/kent_cv.pdf" "newtab" %}}here{{% /staticref %}}.
+You can find my resume {{% staticref "files/kent_resume.pdf" "newtab" %}}here{{% /staticref %}}.
 
 
 <center><img src="img/MartinBehaim1492.png" alt="drawing" width="400"/></center>
