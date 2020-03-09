@@ -96,7 +96,11 @@ In addition, I am involved in ongoing projects about: detecting changepoints in 
 
 Prior to OSU, I earned a BA in International Relations from the University of California, Davis.
 
-You can find my resume {{% staticref "files/kent_resume.pdf" "newtab" %}}here{{% /staticref %}}.
+You can find my resume 
+[here](/files/kent_resume.pdf). 
+<!-- {{% staticref "/static/files/kent_resume.pdf" "newtab" %}}here{{% /staticref %}}. -->
 
-
-<center><img src="img/MartinBehaim1492.png" alt="drawing" width="400"/></center>
+![](/img/MartinBehaim1492.png)
+<!--
+<center><img src="/img/MartinBehaim1492.png" alt="drawing" width="400"/></center>
+-->

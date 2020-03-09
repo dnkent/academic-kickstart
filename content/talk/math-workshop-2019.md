@@ -35,7 +35,14 @@ Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for design
 
 ---
 
-**The course syllabus is available {{% staticref "files/math_camp_syllabus.pdf" %}}here{{% /staticref %}}.**
+**The course syllabus is available [here](/files/math_camp_syllabus.pdf).**
+
+**The course lectures notes are available [here](/files/math_camp_lectures_19.pdf).**
+
+<!-- **The course syllabus is available {{% staticref "files/math_camp_syllabus.pdf" %}}here{{% /staticref %}}.**
+
+
+**Course lecture notes are available {{% staticref "files/math_camp_lectures_19.pdf" %}}here{{% /staticref %}}.** -->
 
 
 Course Description: The purpose of this workshop is to provide incoming first year Ph.D. students with some fundamental skills in various mathematical techniques that are used in political science, regardless of sub-specialty, and generally to prepare students for the first-year methods sequence. The workshop is also open to continuing students who feel that they would gain from participating in the course. This year the course will begin on Monday August 5th and run every weekday until Friday August 16th. Class sessions are tentatively scheduled to run from 09:00-12:30 with approximately a 20-30 minute break in between two 1.5 hour sessions. In addition, an optional introductory sequence to R computing is provided.
