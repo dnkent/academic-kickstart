@@ -86,21 +86,12 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Welcome to my website! 
+I am a Ph.D. candidate in political science at The Ohio State University, specializing in computational social science.
 
-I am a Ph.D. candidate in Political Science, specializing in quantitative methods, at The Ohio State University.
+In my research I apply techniques from machine learning and network science to social and political data. For my dissertation I develop novel estimates of how satisfied or dissatisfied every country has been with its international standing from 1816 to 2012, which I then use to forecast the onset of militarized interstate conflicts.
 
-My research falls under the umbrella of computational social science, with an interest in the application of techniques from machine learning and network science to social and political data. In my dissertation I produce novel estimates of how satisfied or dissatisfied every country has been with its international standing from 1816 to 2012, which I then use to forecast the onset of militarized interstate conflicts.
+Other projects include: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, public opinion about the threat posed by international terrorism, and the politics of multilateral military coalitions.
 
-In addition, I am involved in ongoing projects about: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, public opinion about the threat posed by international terrorism, and the politics of multilateral military coalitions.
-
-Prior to OSU, I earned a BA in International Relations from the University of California, Davis.
-
-You can find my resume 
-[here](/files/kent_resume.pdf). 
-<!-- {{% staticref "/static/files/kent_resume.pdf" "newtab" %}}here{{% /staticref %}}. -->
+You can find my resume [here](/files/kent_resume.pdf).
 
 ![](/img/MartinBehaim1492.png)
-<!--
-<center><img src="/img/MartinBehaim1492.png" alt="drawing" width="400"/></center>
--->

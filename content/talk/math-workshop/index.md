@@ -1,25 +1,61 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Math Workshop 2019"
-subtitle: ""
-summary: "Math workshop for incoming Ohio State Political Science Ph.D. students."
+title: "Math Workshop for First-Year Ph.D. Students"
+event: "Math workshop covering topics from calculus, linear algebra and set notation, in preparation for the graduate methods sequence."
+event_url:
+location: "Spencer Room (2130, Derby Hall)"
+summary: "Math workshop covering topics from calculus, linear algebra and set notation, in preparation for the graduate methods sequence."
+abstract:
+# To remove bio
+profile: false 
+# Remove links
+share: false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2019-03-05
+date_end: 2019-03-16
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2020-03-16
+
 authors: []
 tags: []
-categories: []
-Event: "Math workshop for incoming Ohio State Political Science Ph.D. students."
-date: 2019-08-05 T09:00:22-04:00
-lastmod: 2019-08-05T09:00:22-04:00
+
+# Is this a featured talk? (true/false)
 featured: false
-draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: 
+image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+# Optional filename of your slides within your talk's folder or a URL.
+url_slides:
+
+url_code:
+url_pdf:
+url_video:
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -28,6 +64,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 
 ---
 

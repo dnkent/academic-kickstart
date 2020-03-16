@@ -7,10 +7,13 @@ summary: "Invited to Revise and Resubmit at *Political Analysis*"
 authors: [With James Wilson (University of San Francisco) and Skyler Cranmer]
 tags: []
 categories: []
-date: 2019-08-05T15:15:01-04:00
-lastmod: 2019-08-05T15:15:01-04:00
+date: []
+lastmod: 2020-03-13T15:15:01-04:00
 featured: false
 draft: false
+share: false # no links at top
+profile: false # drop bio at bottom
+reading_time: false # drop reading time 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
