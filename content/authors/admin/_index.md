@@ -88,7 +88,7 @@ user_groups = ["Researchers", "Visitors"]
 
 I am a Ph.D. candidate in political science at The Ohio State University, specializing in computational social science.
 
-In my research I apply techniques from machine learning and network science to social and political data. For my dissertation I develop novel estimates of how satisfied or dissatisfied every country has been with its international standing from 1816 to 2012, which I then use to forecast the onset of militarized interstate conflicts.
+In my research I apply techniques from machine learning and network science to social and political data. For my dissertation I develop a quantitative measure of every country’s sentiment toward its international standing from 1816-2012, which I then use to forecast the onset of militarized interstate conflicts.
 
 Other projects include: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, public opinion about the threat posed by international terrorism, and the politics of multilateral military coalitions.
 
