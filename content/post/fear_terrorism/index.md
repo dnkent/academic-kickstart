@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Public Fears of Terrorism, Partisan Rhetoric, and the
-Foundations of American Interventionism"
+title: "Putting Terror in its Place: An Experiment on Mitigating Fears of Terrorism Among the American Public"
 subtitle: ""
 summary: "Under Review"
 authors: [With Daniel Silverman (Carnegie Mellon University) and Christopher Gelpi]
