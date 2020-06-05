@@ -3,7 +3,7 @@
 
 title: "A Permutation Technique for Monitoring Effect Sizes"
 subtitle: ""
-summary: "Invited to Revise and Resubmit at *Political Analysis*"
+summary: "Conditionally Accepted at *Political Analysis*"
 authors: [With James Wilson (University of San Francisco) and Skyler Cranmer]
 tags: []
 categories: []
