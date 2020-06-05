@@ -3,7 +3,7 @@
 
 title: "Predicting the Onset of Civil War"
 subtitle: ""
-summary: "In preparation"
+summary: "In Preparation"
 authors: [With James Wilson (University of San Francisco) and Skyler Cranmer]
 tags: []
 categories: []
