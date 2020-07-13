@@ -34,13 +34,11 @@ profile: false
 share: false
 ---
 
-+ Full Dissertation: [Essays on Machine Learning in International Conflict and Social Networks](/files/kent_dissertation.pdf)
++ Chapter 1: [Measuring International Dissatisfaction](/files/kent_chapter1.pdf)
 
-  + Chapter 1: [Measuring International Dissatisfaction](/files/kent_chapter1.pdf)
++ Chapter 2: [Predicting International Conflict and Revision](/files/kent_chapter2.pdf)
 
-  + Chapter 2: [Predicting International Conflict and Revision](/files/kent_chapter2.pdf)
-
-  + Chapter 3: [Estimating Heterogeneous Spillover Effects](/files/kent_chapter3.pdf)
++ Chapter 3: [Estimating Heterogeneous Spillover Effects](/files/kent_chapter3.pdf)
 
 This dissertation leverages developments in machine learning methods to better model networked social processes, with an emphasis on international politics. The first chapter develops a dataset with estimates for every country's level of dissatisfaction with the international system from 1816-2012. The second chapter takes these dissatisfaction measures and uses them as features in a machine learning model which predicts international conflict onset. The third chapter explores spillover effects in social networks, demonstrating how causal forests can be employed to uncover spillover effect heterogeneity. Across these chapters, machine learning techniques are instrumental in modeling outcomes of interest and leveraging information from social networks.
 
