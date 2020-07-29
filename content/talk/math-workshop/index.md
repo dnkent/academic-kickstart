@@ -4,7 +4,7 @@
 title: "Math Workshop for First-Year Ph.D. Students"
 event: "Math workshop covering topics from calculus, linear algebra and set notation, in preparation for the graduate methods sequence."
 event_url:
-location: "Spencer Room (2130, Derby Hall)"
+location: "Online"
 summary: "Math workshop covering topics from calculus, linear algebra and set notation, in preparation for the graduate methods sequence."
 abstract:
 # To remove bio
@@ -14,8 +14,8 @@ share: false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-03-05
-date_end: 2019-03-16
+date: 2020-08-10
+date_end: 2020-08-21
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -74,7 +74,7 @@ Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for design
 
 **The course syllabus is available [here](/files/math_camp_syllabus.pdf).**
 
-**The course lectures notes are available [here](/files/math_camp_lectures_19.pdf).**
+**The course lectures notes are available [here](/files/math_camp_lectures_20.pdf).** Students will be notified in advance of class if any notes are updated.
 
 <!-- **The course syllabus is available {{% staticref "files/math_camp_syllabus.pdf" %}}here{{% /staticref %}}.**
 
@@ -82,11 +82,15 @@ Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for design
 **Course lecture notes are available {{% staticref "files/math_camp_lectures_19.pdf" %}}here{{% /staticref %}}.** -->
 
 
-Course Description: The purpose of this workshop is to provide incoming first year Ph.D. students with some fundamental skills in various mathematical techniques that are used in political science, regardless of sub-specialty, and generally to prepare students for the first-year methods sequence. The workshop is also open to continuing students who feel that they would gain from participating in the course. This year the course will begin on Monday August 5th and run every weekday until Friday August 16th. Class sessions are tentatively scheduled to run from 09:00-12:30 with approximately a 20-30 minute break in between two 1.5 hour sessions. In addition, an optional introductory sequence to R computing is provided.
 
-This workshop has a "semi-flipped" format, which means that I expect you to watch videos and do some reading ahead of each class. Each day I lecture on topics and sub-topics that I think need extra attention. Group work and other activities follow the lectures.
+The purpose of this workshop is to provide incoming first year Ph.D. students with some fundamental skills in various mathematical techniques that are used in political science, regardless of sub-specialty, and generally to prepare students for the first-year methods sequence. The workshop is also open to continuing students who feel that they would gain from participating in the course. This year the course will begin on Monday August 10th and run every weekday until Friday August 21st. 
 
-Below is the schedule and the appropriate videos to watch before each session. These videos are meant to supplement textbook reading, and spur class discussion. All of the videos are freely available from Khan Academy and YouTube. These videos are a minimum for each topic; however, going through additional ones, particularly for advanced topics, is suggested. Also, keep in mind that videos get taken down all the time for various reasons. If one is not available, then please let me know and do your best to find a replacement.
+
+In the past, classes have met in person for an extensive lecture, followed by students completing problem sets after class on their own. However, due to current circumstances, this year the class is being held in a "flipped" format. Students will complete the previous day's problem set and review the current day's course materials before our daily Zoom call. During this Zoom call -- from 9:00am -- 11:00am EST -- I will answers questions about the day's topics and we will work through the previous day's problem set as a group. These Zoom calls will be recorded and sent out to participating students so anyone can refer to the material if they are unable to attend or need additional clarification.
+
+For the last three days of class, we will also cover some introductory programming in R from 1:00 -- 2:00pm EST.
+
+Below is the schedule and the appropriate videos to watch before each session. <!-- These videos are meant to supplement textbook reading, and spur class discussion. All of the videos are freely available from Khan Academy and YouTube. These videos are a minimum for each topic; however, going through additional ones, particularly for advanced topics, is suggested. Also, keep in mind that videos get taken down all the time for various reasons. If one is not available, then please let me know and do your best to find a replacement.-->
 
 ### Day 1: Intro, Notation and Definitions, and Some Basic Mathematics
 
