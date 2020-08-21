@@ -74,7 +74,7 @@ Many thanks to [Drew Rosenberg](https://www.asrosenberg.com/mathcamp) for design
 
 **The course syllabus is available [here](/files/math_camp_syllabus.pdf).**
 
-**The course lectures notes are available [here](/files/math_camp_lectures_20.pdf).** Students will be notified in advance of class if any notes are updated.
+**The course lectures notes are available [here](/files/math_camp_2020_notes.pdf).** Students will be notified in advance of class if any notes are updated.
 
 <!-- **The course syllabus is available {{% staticref "files/math_camp_syllabus.pdf" %}}here{{% /staticref %}}.**
 
