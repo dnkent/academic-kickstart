@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate, Political Science"
+role = "PhD, Political Science and Computational Social Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -37,17 +37,17 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Political Science"
+  course = "PhD in Political Science (Computational Social Science)"
   institution = "The Ohio State University"
-  year = "2020 (Expected)" 
+  year = "2020" 
 
 [[education.courses]]
-  course = "MA in Political Science"
+  course = "MA in Political Science (Computational Social Science)"
   institution = "The Ohio State University"
   year = 2017
 
 [[education.courses]]
-  course = "BA in International Relations"
+  course = "BA in International Relations (Highest Honors)"
   institution = "University of California, Davis"
   year = 2013
 
@@ -86,11 +86,15 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Ph.D. candidate in political science at The Ohio State University, specializing in computational social science.
+Thank you for visiting my website! 
 
-In my research I apply techniques from machine learning and network science to social and political data. For my dissertation I develop a quantitative measure of every country’s sentiment toward its international standing from 1816-2012, which I then use to forecast the onset of militarized interstate conflicts.
+I am a recent Ph.D. graduate from The Ohio State University, where I specialized in computational social science and quantitative approaches to political science. I am currently on the data science job market in the San Francisco Bay Area.
 
-Other projects include: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, public opinion about the threat posed by international terrorism, and the politics of multilateral military coalitions.
+In my research I apply techniques from machine learning and network science to social and political data. For my dissertation I develop a quantitative measure of every country’s sentiment toward its international standing from 1816-2012, which I then use as the core feature in a machine learning ensemble that forecasts the onset of military conflicts.
+
+Other projects include: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, a survey experiment about public opinion toward the threat posed by international terrorism, and a quantitative study of the politics of contributions to multilateral alliances.
+
+I have also taught a graduate-level course twice which prepares incoming Ph.D. students for their quantitative methods courses by teaching some foundations of calculus, linear algebra, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
 
 You can find my resume [here](/files/kent_resume.pdf).
 
