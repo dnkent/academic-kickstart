@@ -9,25 +9,25 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD, Political Science and Computational Social Science"
+role = "PhD Computational Social Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "The Ohio State University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include social network analysis, machine learning, and international politics."
+bio = "My research interests include experimental design, machine learning, and social network analysis."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-    "Data Science",
+  interests = [
     "Computational Social Science",
+    "Data Science",
+    "Experimental Design",
     "Machine Learning",
-    "Social Network Analysis",
-    "International Relations"
+    "Social Network Analysis"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -88,14 +88,12 @@ user_groups = ["Researchers", "Visitors"]
 
 Thank you for visiting my website! 
 
-I am a recent Ph.D. graduate from The Ohio State University, where I specialized in computational social science and quantitative approaches to political science. I am currently on the data science job market in the San Francisco Bay Area.
+I am a recent Ph.D. graduate and quantitative social scientist with over five years of experience in experimental and survey design, A/B testing, machine learning, and network science. I completed my Ph.D. in Political Science at The Ohio State University, where I specialized in quantitative approaches to social and political processes.
 
-In my research I apply techniques from machine learning and network science to social and political data. For my dissertation I develop a quantitative measure of every country’s sentiment toward its international standing from 1816-2012, which I then use as the core feature in a machine learning ensemble that forecasts the onset of military conflicts.
+In my research I have worked on a variety of methodological and social topics, spanning from a nationwide survey experiment on U.S. public opinion to a dissertation about forecasting international conflict and detecting spillover effects in social networks. My research has been financially supported by the National Science Foundation, Mershon Center for International Security, and the Ohio State Decision Sciences Collaborative.
 
-Other projects include: detecting changepoints in varying-coefficient models, forecasting the onset of civil wars, a survey experiment about public opinion toward the threat posed by international terrorism, and a quantitative study of the politics of contributions to multilateral alliances.
+I have also taught a graduate-level course twice which prepares incoming Ph.D. students for their quantitative methods courses by teaching calculus, linear algebra, probability, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
 
-I have also taught a graduate-level course twice which prepares incoming Ph.D. students for their quantitative methods courses by teaching some foundations of calculus, linear algebra, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
-
-You can find my resume [here](/files/kent_resume.pdf).
+You can find my data science resume [here](/files/kent_resume.pdf) and my academic CV [here](/files/kent_cv.pdf).
 
 ![](/img/MartinBehaim1492.png)
