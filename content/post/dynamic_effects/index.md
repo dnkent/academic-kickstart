@@ -3,7 +3,7 @@
 
 title: "A Permutation-Based Changepoint Technique for Monitoring Effect Sizes"
 subtitle: ""
-summary: "Conditionally Accepted at *Political Analysis*"
+summary: "Accepted at *Political Analysis*"
 authors: [With James Wilson (University of San Francisco) and Skyler Cranmer]
 tags: []
 categories: []
