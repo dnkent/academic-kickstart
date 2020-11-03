@@ -4,7 +4,7 @@
 title: "Keeping Your Friends Close, But Acquaintances Closer: Why
 Weakly Allied States Make Committed Coalition Partners"
 subtitle: ""
-summary: "Conditionally Accepted at *Journal of Conflict Resolution*"
+summary: "Forthcoming at *Journal of Conflict Resolution*"
 authors: [With J. Andres Gannon (UCSD)]
 tags: []
 categories: []
@@ -36,6 +36,6 @@ interests or strong ties to the lead state over-contribute relative to their cap
 newly compiled data on troop contributions to the war in Afghanistan (2001-2014), we
 find states are most likely to contribute a higher share of their armed forces when their
 relationship with the US has unrealized alliance potential. States with under-performing
-alignments leave substantial room for subsequent gains to be had from signaling their commitment to the leading coalition actor. 
+alignments leave substantial room for subsequent gains to be had from signaling their commitment to the leading coalition actor.
 Our finding helps explain why states risk the costs
 of war – casualties and domestic accountability – by participating in coalition warfare.

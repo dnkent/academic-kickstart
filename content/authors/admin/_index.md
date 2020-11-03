@@ -16,17 +16,17 @@ role = "PhD Computational Social Science"
 organizations = [ { name = "The Ohio State University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include experimental design, machine learning, and social network analysis."
+bio = "My research interests include machine learning, experimental design, and social network analysis."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
   interests = [
-    "Computational Social Science",
     "Data Science",
-    "Experimental Design",
+    "Computational Social Science",
     "Machine Learning",
+    "Experimental Design",
     "Social Network Analysis"
 ]
 
@@ -39,7 +39,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Political Science (Computational Social Science)"
   institution = "The Ohio State University"
-  year = "2020" 
+  year = "2020"
 
 [[education.courses]]
   course = "MA in Political Science (Computational Social Science)"
@@ -86,11 +86,11 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Thank you for visiting my website! 
+Thank you for visiting my website!
 
-I am a recent Ph.D. graduate and quantitative social scientist with over five years of experience in experimental and survey design, A/B testing, machine learning, and network science. I completed my Ph.D. in Political Science at The Ohio State University, where I specialized in quantitative approaches to social and political processes.
+I am a computational social scientist with over five years of experience in machine learning, causal inference, experimental and survey design, and network science. I recently completed my Ph.D. in Political Science at The Ohio State University, where I specialized in quantitative research on international politics.
 
-In my research I have worked on a variety of methodological and social topics, spanning from a nationwide survey experiment on U.S. public opinion to a dissertation about forecasting international conflict and detecting spillover effects in social networks. My research has been financially supported by the National Science Foundation, Mershon Center for International Security, and the Ohio State Decision Sciences Collaborative.
+In my research I have worked on a variety of methodological and social topics, spanning from a nationwide survey experiment on U.S. public opinion to a dissertation about using machine learning methods to forecast international conflict and detect spillover effects in social networks. My research has been financially supported by the National Science Foundation, Mershon Center for International Security, and the Ohio State Decision Sciences Collaborative.
 
 I have also taught a graduate-level course twice which prepares incoming Ph.D. students for their quantitative methods courses by teaching calculus, linear algebra, probability, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
 
