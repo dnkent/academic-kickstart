@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Computational Social Science"
+role = "Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The Ohio State University", url = "" } ]
+organizations = [ { name = "Kaiser Permanente", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include machine learning, experimental design, and social network analysis."
@@ -24,10 +24,10 @@ email = ""
 # List (academic) interests or hobbies
   interests = [
     "Data Science",
-    "Computational Social Science",
+    "Decision Science",
     "Machine Learning",
-    "Experimental Design",
-    "Social Network Analysis"
+    "Causal Inference",
+    "A/B Testing and Experimental Design"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -42,7 +42,7 @@ user_groups = ["Researchers", "Visitors"]
   year = "2020"
 
 [[education.courses]]
-  course = "MA in Political Science (Computational Social Science)"
+  course = "MA in Political Science"
   institution = "The Ohio State University"
   year = 2017
 
@@ -88,12 +88,20 @@ user_groups = ["Researchers", "Visitors"]
 
 Thank you for visiting my website!
 
-I am a computational social scientist with over five years of experience in machine learning, causal inference, experimental and survey design, and network science. I recently completed my Ph.D. in Political Science at The Ohio State University, where I specialized in quantitative research on international politics.
+I am currently a data scientist at Kaiser Permanente in San Francisco. Prior to Kaiser Permanente I completed a Ph.D. in Political Science at Ohio State, where I specialized in computational social science.
 
-In my research I have worked on a variety of methodological and social topics, spanning from a nationwide survey experiment on U.S. public opinion to a dissertation about using machine learning methods to forecast international conflict and detect spillover effects in social networks. My research has been financially supported by the National Science Foundation, Mershon Center for International Security, and the Ohio State Decision Sciences Collaborative.
+As a data scientist, I enjoy applying machine learning and causal inference techniques to questions around business strategy and growth.
+You can find my resume [here](/files/kent_resume.pdf).
+
+<!-- I am a computational social scientist with over five years of experience in machine learning, causal inference, experimental and survey design, and network science. I recently completed my Ph.D. in Political Science at The Ohio State University, where I specialized in quantitative research on international politics. -->
+
+In graduate school my dissertation focused on using machine learning methods to forecast international conflict and detect spillover effects in social networks. I also taught a graduate-level course twice which prepared incoming Ph.D. students for their quantitative methods courses by teaching calculus, linear algebra, probability, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
+
+<!--
+While in graduate school my research spanned a variety of methodological and social topics, including from a nationwide survey experiment on U.S. public opinion and a dissertation about using machine learning methods to forecast international conflict and detect spillover effects in social networks. My research has been financially supported by the National Science Foundation, Mershon Center for International Security, and the Ohio State Decision Sciences Collaborative.
 
 I have also taught a graduate-level course twice which prepares incoming Ph.D. students for their quantitative methods courses by teaching calculus, linear algebra, probability, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
-
-You can find my data science resume [here](/files/kent_resume.pdf) and my academic CV [here](/files/kent_cv.pdf).
+-->
+ <!-- and my academic CV [here](/files/kent_cv.pdf). -->
 
 ![](/img/MartinBehaim1492.png)

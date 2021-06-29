@@ -4,7 +4,7 @@
 title: "Keeping Your Friends Close, But Acquaintances Closer: Why
 Weakly Allied States Make Committed Coalition Partners"
 subtitle: ""
-summary: "Forthcoming at *Journal of Conflict Resolution*"
+summary: "*Journal of Conflict Resolution*"
 authors: [With J. Andres Gannon (UCSD)]
 tags: []
 categories: []
@@ -29,6 +29,8 @@ image:
 projects: []
 ---
 
-Paper and replication files are available at: [https://github.com/CenterForPeaceAndSecurityStudies/ISAF](https://github.com/CenterForPeaceAndSecurityStudies/ISAF).
+Article available at [https://doi.org/10.1177/0022002720978800](https://doi.org/10.1177/0022002720978800).
+
+A pre-print version of the article and replication files are available at: [https://github.com/CenterForPeaceAndSecurityStudies/ISAF](https://github.com/CenterForPeaceAndSecurityStudies/ISAF).
 
 Why do states join wartime coalitions despite the absence of a salient threat or strong ties to the coalition leader? We argue states make unexpectedly high contributions to coalition warfare as a costly signal of their desire for a stronger relationship with the coalition leader. Conventional theories insufficiently explain why states without immediate security interests or strong ties to the lead state over-contribute relative to their capacity. Using newly compiled data on troop contributions to the war in Afghanistan (2001-2014), we find states are most likely to contribute a higher share of their armed forces when their relationship with the US has unrealized alliance potential. States with under-performing alignments leave substantial room for subsequent gains to be had from signaling their commitment to the leading coalition actor. Our finding helps explain why states risk the costs of war -- casualties and domestic accountability -- by participating in coalition warfare.
