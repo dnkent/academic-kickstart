@@ -95,7 +95,7 @@ You can find my resume [here](/files/kent_resume.pdf).
 
 <!-- I am a computational social scientist with over five years of experience in machine learning, causal inference, experimental and survey design, and network science. I recently completed my Ph.D. in Political Science at The Ohio State University, where I specialized in quantitative research on international politics. -->
 
-In graduate school my dissertation focused on using machine learning methods to forecast international conflict and detect spillover effects in social networks. I also taught a graduate-level course twice which prepared incoming Ph.D. students for their quantitative methods courses by teaching calculus, linear algebra, probability, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
+In graduate school my dissertation focused on using machine learning methods to forecast international conflict and detect spillover effects in social networks. I also taught a graduate-level course twice which prepared incoming Ph.D. students for their quantitative methods courses by teaching introductory calculus, linear algebra, probability, and R programming. More course information is available [here](https://dnkent.github.io/talk/math-workshop/).
 
 <!--
 While in graduate school my research spanned a variety of methodological and social topics, including from a nationwide survey experiment on U.S. public opinion and a dissertation about using machine learning methods to forecast international conflict and detect spillover effects in social networks. My research has been financially supported by the National Science Foundation, Mershon Center for International Security, and the Ohio State Decision Sciences Collaborative.
